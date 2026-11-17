@@ -95,3 +95,4 @@ fpo-cooperative-procurement-supply-chain/
 * **Role:** Aspiring Agri-Business Analyst & Geospatial BI Specialist
 * **LinkedIn:** linkedin.com/in/somnath-banerjee-621720239
 * **GitHub:** https://github.com/banerjeesomnath1154-dotcom
+* **Gmail:** banerjeesomnath1154@gmail.com
