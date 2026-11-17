@@ -88,3 +88,10 @@ fpo-cooperative-procurement-supply-chain/
    ```
 3. **Inspect Excel Audit Workbook**:
    Open `excel/fpo_farmer_payout_reconciliation.xlsx` to verify formulas, `SUMIF` functions, and the zero-variance check.
+---
+
+## 👤 Author & Contact
+* **Author:** Somnath Banerjee
+* **Role:** Aspiring Agri-Business Analyst & Geospatial BI Specialist
+* **LinkedIn:** linkedin.com/in/somnath-banerjee-621720239
+* **GitHub:** https://github.com/banerjeesomnath1154-dotcom
